@@ -1,0 +1,10 @@
+
+#Ignore the robot library
+bluecove-2.1.0.jar
+dbusjava.jar
+ev3classes.jar
+README.txt
+setupConsole.bat
+setupConsole.sh
+ShefRobot.jar
+
