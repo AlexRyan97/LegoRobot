@@ -4,15 +4,11 @@
  * Last updated:
  */
  
-import ShefRobot.*; 
+ import ShefRobot.*; 
 public class Assignment3 { 
 	
 		public static void main(String[] args) {
-			
-			Robot myRobot = new Robot();
-			
-			myRobot.close();
-			
+
 		
 		}
 }
