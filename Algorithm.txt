@@ -1,0 +1,12 @@
+
+
+
+1.Initialise the robot
+1.1.Check the connected ports
+1.2.Get required sensors
+
+2.Find the grid
+2.1.If it's on white, move forward
+2.2.If it finds a color, stop.(stop when it steps in the color)
+
+3.
