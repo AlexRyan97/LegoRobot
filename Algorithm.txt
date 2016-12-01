@@ -7,6 +7,20 @@
 
 2.Find the grid
 2.1.If it's on white, move forward
-2.2.If it finds a color, stop.(stop when it steps in the color)
+2.2.If it finds a color, stop.
+2.3.Enter the grid by moving one step forward
+2.4.Rotate untill found color different than white
 
-3.
+3.Explore grid
+3.1.Move through the grid, memorising each color change.
+3.2.If stepped on white, rotate untill any color is found.
+3.3.If same color found twice, rotate towards the old color and move towards it.
+
+
+
+
+Pseudocode:
+
+init(robot)
+
+grid[][] - 2D array of colors 
